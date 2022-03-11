@@ -1,3 +1,5 @@
+<img src="Harsh Sharma.png" alt="Girl in a jacket" width="500" height="600">
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on self-improvement
