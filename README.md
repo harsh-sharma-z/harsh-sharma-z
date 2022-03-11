@@ -1,4 +1,4 @@
-<img src="Harsh Sharma.png" alt="Girl in a jacket" width="2000" height="400">
+<img src="Harsh Sharma.png" alt="Girl in a jacket" width="1500" height="300">
 
 ### Hi there 👋
 
