@@ -1,7 +1,5 @@
 <img src="Harsh Sharma.png" alt="Girl in a jacket" width="1500" height="500">
 
-### Hi there 👋
-
 
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
 <h3 align="center">A passionate CSE student from India</h3>
