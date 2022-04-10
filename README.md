@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-sharma-z&" alt="harsh-sharma-z" /></p>
 
-<img src="coder.gif" alt="coder" width="800" height="100">
+<img src='coder.gif' width = 150 align = "right" alt="coder" >
