@@ -20,11 +20,7 @@
 
 
 
-<div align="center">
-  <a href="https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA?si=499df2f454134121">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
+
 
 
 <br>
