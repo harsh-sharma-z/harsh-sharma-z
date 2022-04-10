@@ -18,6 +18,16 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hobby is poetry.
 
+
+
+<div align="center">
+  <a href="https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA?si=499df2f454134121">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
+
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-sharma-105044200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-sharma-105044200" height="30" width="40" /></a>
