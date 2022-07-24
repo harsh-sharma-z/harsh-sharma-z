@@ -1,4 +1,4 @@
-<img src="H.gif" alt="Myself" width="850" height="470">
+<img src="HARSH SHARMA.gif" alt="Myself" width="850" height="470">
 
 
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
