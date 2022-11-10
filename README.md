@@ -43,7 +43,11 @@
 <img align="left" width="13%" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <br>
 <br>
+ <br/>  
 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kfhnspj23fbqgf6yadz736v6bi&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+
+<br/>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-sharma-z&show_icons=true&locale=en&layout=compact" alt="harsh-sharma-z" /></p>
 
@@ -53,6 +57,7 @@
 
 
 <p align="center" >
+ 
 
 <img src='monkey-laptop.gif' width = 300 height =175 align = "right" alt="coder" >
   <p><img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572"></p>
