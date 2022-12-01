@@ -45,13 +45,9 @@
 <img align="left" width="10%" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img align="left" width="10%" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
 <img align="left" width="13%" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<br>
+
 <br>
  <br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kfhnspj23fbqgf6yadz736v6bi&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-sharma-z&show_icons=true&locale=en&layout=compact" alt="harsh-sharma-z" /></p>
 
